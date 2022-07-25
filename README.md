@@ -2,16 +2,6 @@
 
 **Jakt** is a memory-safe systems programming language.
 
-It currently transpiles to C++.
-
-**NOTE:** The language is under heavy development.
-
-## Usage
-The transpilation to C++ requires `clang`. Make sure you have that installed.
-```
-jakt file.jakt
-./build/file
-```
 
 ## Goals
 
